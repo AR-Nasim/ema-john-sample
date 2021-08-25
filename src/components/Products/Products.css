@@ -1,0 +1,23 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-left: 10px;
+    padding: 15px;
+}
+.product-details{
+    margin-left: 20px;
+}
+.product-details h2{
+    font-weight: 400;
+    color: blue;
+    font-size: 22px;
+}
+.cart-button{
+    padding: 10px 30px;
+    background-color: goldenrod;
+    outline: none;
+    border: 1px solid gold;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
